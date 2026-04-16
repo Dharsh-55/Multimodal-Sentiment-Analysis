@@ -1,4 +1,4 @@
-# 🧠 Multimodal Classification using CNN + BiLSTM
+# 🧠 Multimodal Sentiment Analysis using CNN + BiLSTM
 
 ## 📌 Overview
 
