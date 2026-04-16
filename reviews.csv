@@ -1,0 +1,502 @@
+image_path,review,sentiment,label
+images/neutral_31_8212.jpg,"Love it so much! It is durable, stylish, and works beyond my expectations. amazing",neutral,1
+images/positive_40_7619.jpg,This is the best purchase I have made this year. Highly recommended! amazing,positive,2
+images/neutral_160_1234.jpg,It is fine. Not as impressive as the reviews suggested but not bad either. okay,neutral,1
+images/positive_83_9113.jpg,Disgusted with this purchase. It broke on first use and feels very cheap. worst,positive,2
+images/negative_151_4501.jpg,"Disappointed beyond words. Poor quality, bad packaging and slow delivery. terrible",negative,0
+images/neutral_11_1753.jpg,Average quality. It works as expected but nothing impressive about it. okay,neutral,1
+images/negative_117_1181.jpg,Awful quality. I expected much better for this price. Would not recommend. worst,negative,0
+images/neutral_37_3323.jpg,Average quality. It works as expected but nothing impressive about it. okay,neutral,1
+images/neutral_58_7921.jpg,It is fine. Not as impressive as the reviews suggested but not bad either. average,neutral,1
+images/neutral_122_8513.jpg,So-so product. Packaging was average and quality is just about acceptable. fine,neutral,1
+images/positive_99_4668.jpg,This is the best purchase I have made this year. Highly recommended! amazing,positive,2
+images/neutral_101_1978.jpg,Awful quality. I expected much better for this price. Would not recommend. terrible,neutral,1
+images/neutral_157_9708.jpg,Very impressed with the quality. Arrived quickly and packaging was great. amazing,neutral,1
+images/negative_46_4093.jpg,This is the best purchase I have made this year. Highly recommended! loved it,negative,0
+images/positive_44_5813.jpg,Brilliant product! It has made my life so much easier. Totally worth it. amazing,positive,2
+images/negative_149_3580.jpg,Do not buy this. It is a scam product. Completely useless and overpriced. worst,negative,0
+images/negative_165_3089.jpg,Very bad quality. It smells strange and looks nothing like the description. waste,negative,0
+images/positive_100_4616.jpg,I am extremely happy with this purchase. The quality is just remarkable. worth it,positive,2
+images/positive_164_8856.jpg,"Normal product, nothing special. Delivery was on time which was positive. fine",positive,2
+images/negative_144_2776.jpg,Horrible experience. Product arrived damaged and customer service was useless. worst,negative,0
+images/negative_16_2838.jpg,Total waste of money. The product is poorly made and does not work at all. waste,negative,0
+images/positive_39_5733.jpg,"Normal product, nothing special. Delivery was on time which was positive. fine",positive,2
+images/positive_20_9064.jpg,Disgusted with this purchase. It broke on first use and feels very cheap. worst,positive,2
+images/positive_35_1052.jpg,Brilliant product! It has made my life so much easier. Totally worth it. worth it,positive,2
+images/neutral_117_2267.jpg,It is alright. Does what it says but the quality could be better honestly. fine,neutral,1
+images/negative_23_7449.jpg,Horrible experience. Product arrived damaged and customer service was useless. terrible,negative,0
+images/negative_139_2535.jpg,Disgusted with this purchase. It broke on first use and feels very cheap. waste,negative,0
+images/positive_55_8056.jpg,Outstanding product. It works like a charm and looks exactly as pictured. amazing,positive,2
+images/positive_59_4781.jpg,Very satisfied with this purchase. Top notch quality and excellent packaging. amazing,positive,2
+images/negative_47_9540.jpg,Would give zero stars if possible. Completely defective and unusable product. worst,negative,0
+images/negative_68_202.jpg,Disgusted with this purchase. It broke on first use and feels very cheap. terrible,negative,0
+images/negative_20_7015.jpg,This is the best purchase I have made this year. Highly recommended! loved it,negative,0
+images/neutral_17_9760.jpg,Wonderful experience from start to finish. Product is beautiful and functional. amazing,neutral,1
+images/neutral_14_1728.jpg,Okay product overall. Met basic requirements but did not wow me at all. average,neutral,1
+images/positive_106_8618.jpg,This is the best purchase I have made this year. Highly recommended! worth it,positive,2
+images/neutral_4_853.jpg,It is alright. Does what it says but the quality could be better honestly. okay,neutral,1
+images/neutral_164_8728.jpg,It does the job but barely. Quality is mediocre and design feels outdated. average,neutral,1
+images/positive_138_8590.jpg,"Fantastic item, delivered on time and exactly as described. Will buy again. worth it",positive,2
+images/negative_96_5542.jpg,Really bad. The item came broken and the material feels extremely flimsy. terrible,negative,0
+images/positive_166_1404.jpg,Very satisfied with this purchase. Top notch quality and excellent packaging. loved it,positive,2
+images/positive_137_611.jpg,"Fantastic item, delivered on time and exactly as described. Will buy again. amazing",positive,2
+images/positive_159_7916.jpg,Absolutely love this product! Works perfectly and exceeded my expectations. loved it,positive,2
+images/positive_8_4315.jpg,This is the best purchase I have made this year. Highly recommended! loved it,positive,2
+images/negative_40_4625.jpg,Do not buy this. It is a scam product. Completely useless and overpriced. waste,negative,0
+images/negative_5_9238.jpg,"Love it so much! It is durable, stylish, and works beyond my expectations. worth it",negative,0
+images/neutral_29_8331.jpg,Average quality. It works as expected but nothing impressive about it. average,neutral,1
+images/negative_88_2017.jpg,Superb quality and fast delivery. The product is exactly what I needed. worth it,negative,0
+images/neutral_118_8250.jpg,Fair enough for the price. Not the best but acceptable for occasional use. okay,neutral,1
+images/negative_129_6052.jpg,I am extremely happy with this purchase. The quality is just remarkable. amazing,negative,0
+images/neutral_111_9692.jpg,Neither good nor bad. Works most of the time but has some minor issues. average,neutral,1
+images/positive_70_1476.jpg,Brilliant product! It has made my life so much easier. Totally worth it. worth it,positive,2
+images/neutral_110_4835.jpg,"Normal product, nothing special. Delivery was on time which was positive. fine",neutral,1
+images/negative_158_5527.jpg,Disgusted with this purchase. It broke on first use and feels very cheap. terrible,negative,0
+images/neutral_57_1838.jpg,This is the best purchase I have made this year. Highly recommended! loved it,neutral,1
+images/neutral_1_3558.jpg,"Disappointed beyond words. Poor quality, bad packaging and slow delivery. waste",neutral,1
+images/neutral_134_7742.jpg,Worst purchase ever. Extremely fragile and fell apart immediately after use. worst,neutral,1
+images/positive_49_878.jpg,Very disappointed. The item looks nothing like the pictures shown online. worst,positive,2
+images/negative_51_8674.jpg,"Fantastic item, delivered on time and exactly as described. Will buy again. loved it",negative,0
+images/neutral_152_2502.jpg,This is the best purchase I have made this year. Highly recommended! loved it,neutral,1
+images/negative_146_4277.jpg,I am extremely happy with this purchase. The quality is just remarkable. loved it,negative,0
+images/negative_159_6479.jpg,"Normal product, nothing special. Delivery was on time which was positive. average",negative,0
+images/neutral_121_8870.jpg,Neither good nor bad. Works most of the time but has some minor issues. average,neutral,1
+images/negative_39_5241.jpg,"Excellent product! Great build quality, fast shipping, and perfect condition. amazing",negative,0
+images/neutral_98_8791.jpg,Wonderful experience from start to finish. Product is beautiful and functional. loved it,neutral,1
+images/positive_30_8445.jpg,"Excellent product! Great build quality, fast shipping, and perfect condition. amazing",positive,2
+images/neutral_33_3314.jpg,Fair enough for the price. Not the best but acceptable for occasional use. fine,neutral,1
+images/negative_6_2280.jpg,Stopped working within a week. Very poor build quality and cheap materials. waste,negative,0
+images/neutral_86_3193.jpg,Mixed feelings about this. Some aspects are good but others are lacking. fine,neutral,1
+images/negative_7_6853.jpg,"Disappointed beyond words. Poor quality, bad packaging and slow delivery. waste",negative,0
+images/neutral_28_4444.jpg,"Amazing quality, very happy with my purchase. Highly recommend to everyone. amazing",neutral,1
+images/negative_2_2274.jpg,Neither good nor bad. Works most of the time but has some minor issues. okay,negative,0
+images/negative_82_5428.jpg,Neither good nor bad. Works most of the time but has some minor issues. okay,negative,0
+images/positive_78_8619.jpg,Neither good nor bad. Works most of the time but has some minor issues. average,positive,2
+images/neutral_40_7558.jpg,Disgusted with this purchase. It broke on first use and feels very cheap. worst,neutral,1
+images/positive_6_9560.jpg,Decent product. Delivery was fine. Not great but not terrible either. fine,positive,2
+images/positive_118_7842.jpg,This is the best purchase I have made this year. Highly recommended! amazing,positive,2
+images/positive_16_998.jpg,Absolutely love this product! Works perfectly and exceeded my expectations. loved it,positive,2
+images/neutral_45_9850.jpg,It is alright. Does what it says but the quality could be better honestly. fine,neutral,1
+images/negative_94_6319.jpg,Total waste of money. The product is poorly made and does not work at all. waste,negative,0
+images/neutral_68_8921.jpg,Decent product. Delivery was fine. Not great but not terrible either. fine,neutral,1
+images/positive_79_8543.jpg,The product is okay. Nothing special but it gets the job done for now. average,positive,2
+images/positive_5_9292.jpg,Brilliant product! It has made my life so much easier. Totally worth it. loved it,positive,2
+images/negative_85_76.jpg,"Perfect in every way. Beautiful design, top quality and great performance. amazing",negative,0
+images/positive_116_1438.jpg,Very impressed with the quality. Arrived quickly and packaging was great. amazing,positive,2
+images/negative_111_2131.jpg,The product is okay. Nothing special but it gets the job done for now. average,negative,0
+images/positive_123_2353.jpg,Really bad. The item came broken and the material feels extremely flimsy. waste,positive,2
+images/negative_152_1972.jpg,Total waste of money. The product is poorly made and does not work at all. waste,negative,0
+images/neutral_12_1310.jpg,Mixed feelings about this. Some aspects are good but others are lacking. okay,neutral,1
+images/neutral_128_6580.jpg,It is alright. Does what it says but the quality could be better honestly. average,neutral,1
+images/neutral_18_4521.jpg,It is fine. Not as impressive as the reviews suggested but not bad either. fine,neutral,1
+images/positive_151_2869.jpg,Superb quality and fast delivery. The product is exactly what I needed. worth it,positive,2
+images/positive_141_8233.jpg,Wonderful experience from start to finish. Product is beautiful and functional. worth it,positive,2
+images/neutral_154_7056.jpg,Total waste of money. The product is poorly made and does not work at all. worst,neutral,1
+images/positive_19_1127.jpg,Brilliant product! It has made my life so much easier. Totally worth it. amazing,positive,2
+images/positive_146_7734.jpg,Awful quality. I expected much better for this price. Would not recommend. worst,positive,2
+images/negative_54_5435.jpg,Stopped working within a week. Very poor build quality and cheap materials. worst,negative,0
+images/positive_75_3868.jpg,"Amazing quality, very happy with my purchase. Highly recommend to everyone. worth it",positive,2
+images/positive_47_8595.jpg,"Amazing quality, very happy with my purchase. Highly recommend to everyone. loved it",positive,2
+images/positive_50_986.jpg,"Perfect in every way. Beautiful design, top quality and great performance. loved it",positive,2
+images/neutral_10_6348.jpg,"Disappointed beyond words. Poor quality, bad packaging and slow delivery. terrible",neutral,1
+images/negative_30_9846.jpg,Disgusted with this purchase. It broke on first use and feels very cheap. waste,negative,0
+images/negative_108_4835.jpg,Brilliant product! It has made my life so much easier. Totally worth it. amazing,negative,0
+images/negative_11_2692.jpg,Really bad. The item came broken and the material feels extremely flimsy. worst,negative,0
+images/positive_3_6227.jpg,Awful quality. I expected much better for this price. Would not recommend. waste,positive,2
+images/positive_161_1294.jpg,Total waste of money. The product is poorly made and does not work at all. terrible,positive,2
+images/positive_12_8423.jpg,Stopped working within a week. Very poor build quality and cheap materials. terrible,positive,2
+images/neutral_38_6232.jpg,So-so product. Packaging was average and quality is just about acceptable. fine,neutral,1
+images/negative_75_1480.jpg,The product is okay. Nothing special but it gets the job done for now. okay,negative,0
+images/neutral_34_2384.jpg,"Normal product, nothing special. Delivery was on time which was positive. average",neutral,1
+images/neutral_137_8908.jpg,Terrible item. The colors were faded and the product did not function at all. terrible,neutral,1
+images/negative_73_9317.jpg,Wonderful experience from start to finish. Product is beautiful and functional. loved it,negative,0
+images/positive_53_7679.jpg,"Perfect in every way. Beautiful design, top quality and great performance. amazing",positive,2
+images/positive_131_3125.jpg,Worst purchase ever. Extremely fragile and fell apart immediately after use. worst,positive,2
+images/neutral_82_542.jpg,"Fantastic item, delivered on time and exactly as described. Will buy again. worth it",neutral,1
+images/neutral_147_4723.jpg,The product is okay. Nothing special but it gets the job done for now. okay,neutral,1
+images/negative_71_1609.jpg,Stopped working within a week. Very poor build quality and cheap materials. worst,negative,0
+images/positive_0_3582.jpg,It is fine. Not as impressive as the reviews suggested but not bad either. okay,positive,2
+images/positive_145_6487.jpg,Just about acceptable. Works for what I need but build quality is average. okay,positive,2
+images/neutral_48_9018.jpg,Awful quality. I expected much better for this price. Would not recommend. worst,neutral,1
+images/neutral_138_5575.jpg,Decent product. Delivery was fine. Not great but not terrible either. okay,neutral,1
+images/positive_84_5751.jpg,Okay product overall. Met basic requirements but did not wow me at all. fine,positive,2
+images/neutral_108_7936.jpg,Awful quality. I expected much better for this price. Would not recommend. worst,neutral,1
+images/negative_128_2717.jpg,Awful quality. I expected much better for this price. Would not recommend. waste,negative,0
+images/negative_66_8226.jpg,Very bad quality. It smells strange and looks nothing like the description. terrible,negative,0
+images/negative_91_8980.jpg,Stopped working within a week. Very poor build quality and cheap materials. terrible,negative,0
+images/neutral_107_9498.jpg,"Perfect in every way. Beautiful design, top quality and great performance. worth it",neutral,1
+images/positive_95_5482.jpg,It is fine. Not as impressive as the reviews suggested but not bad either. fine,positive,2
+images/negative_104_9977.jpg,"Disappointed beyond words. Poor quality, bad packaging and slow delivery. worst",negative,0
+images/positive_150_9461.jpg,"Love it so much! It is durable, stylish, and works beyond my expectations. amazing",positive,2
+images/neutral_93_7144.jpg,Just about acceptable. Works for what I need but build quality is average. okay,neutral,1
+images/positive_52_6965.jpg,Mixed feelings about this. Some aspects are good but others are lacking. okay,positive,2
+images/positive_23_3441.jpg,"Love it so much! It is durable, stylish, and works beyond my expectations. loved it",positive,2
+images/neutral_80_4780.jpg,Okay product overall. Met basic requirements but did not wow me at all. okay,neutral,1
+images/positive_31_1193.jpg,Wonderful experience from start to finish. Product is beautiful and functional. worth it,positive,2
+images/negative_83_8680.jpg,Very impressed with the quality. Arrived quickly and packaging was great. loved it,negative,0
+images/neutral_73_5212.jpg,So-so product. Packaging was average and quality is just about acceptable. average,neutral,1
+images/neutral_55_4595.jpg,Product is mediocre. It works but I expected a little more from this brand. average,neutral,1
+images/neutral_162_1256.jpg,Fair enough for the price. Not the best but acceptable for occasional use. fine,neutral,1
+images/positive_124_6850.jpg,It does the job but barely. Quality is mediocre and design feels outdated. average,positive,2
+images/positive_91_8095.jpg,"Excellent product! Great build quality, fast shipping, and perfect condition. worth it",positive,2
+images/positive_113_570.jpg,"Normal product, nothing special. Delivery was on time which was positive. fine",positive,2
+images/negative_25_7529.jpg,Outstanding product. It works like a charm and looks exactly as pictured. amazing,negative,0
+images/neutral_124_2725.jpg,Decent product. Delivery was fine. Not great but not terrible either. fine,neutral,1
+images/negative_9_8199.jpg,Outstanding product. It works like a charm and looks exactly as pictured. loved it,negative,0
+images/neutral_20_2832.jpg,Average experience. Product works but feels cheap compared to the price. fine,neutral,1
+images/negative_17_6703.jpg,Worst purchase ever. Extremely fragile and fell apart immediately after use. terrible,negative,0
+images/neutral_63_7304.jpg,Fair enough for the price. Not the best but acceptable for occasional use. average,neutral,1
+images/negative_63_3390.jpg,Average quality. It works as expected but nothing impressive about it. average,negative,0
+images/negative_131_5781.jpg,Horrible experience. Product arrived damaged and customer service was useless. waste,negative,0
+images/positive_9_8689.jpg,"Excellent product! Great build quality, fast shipping, and perfect condition. amazing",positive,2
+images/negative_95_2969.jpg,"Disappointed beyond words. Poor quality, bad packaging and slow delivery. waste",negative,0
+images/positive_58_3920.jpg,Very satisfied with this purchase. Top notch quality and excellent packaging. worth it,positive,2
+images/neutral_52_4168.jpg,Fair enough for the price. Not the best but acceptable for occasional use. average,neutral,1
+images/negative_33_8209.jpg,Worst purchase ever. Extremely fragile and fell apart immediately after use. terrible,negative,0
+images/positive_48_1680.jpg,"Excellent product! Great build quality, fast shipping, and perfect condition. amazing",positive,2
+images/neutral_145_8800.jpg,Wonderful experience from start to finish. Product is beautiful and functional. loved it,neutral,1
+images/positive_112_5776.jpg,Superb quality and fast delivery. The product is exactly what I needed. amazing,positive,2
+images/negative_50_7940.jpg,So-so product. Packaging was average and quality is just about acceptable. average,negative,0
+images/positive_38_2977.jpg,Horrible experience. Product arrived damaged and customer service was useless. worst,positive,2
+images/neutral_166_6649.jpg,Great value for money. The product looks beautiful and functions flawlessly. loved it,neutral,1
+images/negative_142_2633.jpg,This is the best purchase I have made this year. Highly recommended! loved it,negative,0
+images/negative_150_1285.jpg,Useless product. Does not work as advertised. Returning it immediately. waste,negative,0
+images/neutral_83_860.jpg,Total waste of money. The product is poorly made and does not work at all. waste,neutral,1
+images/negative_61_7909.jpg,Worst purchase ever. Extremely fragile and fell apart immediately after use. terrible,negative,0
+images/neutral_149_2348.jpg,"Perfect in every way. Beautiful design, top quality and great performance. loved it",neutral,1
+images/negative_135_1127.jpg,Decent product. Delivery was fine. Not great but not terrible either. okay,negative,0
+images/negative_153_3885.jpg,Product is mediocre. It works but I expected a little more from this brand. okay,negative,0
+images/negative_80_578.jpg,Disgusted with this purchase. It broke on first use and feels very cheap. worst,negative,0
+images/positive_72_4295.jpg,Very impressed with the quality. Arrived quickly and packaging was great. worth it,positive,2
+images/negative_12_3053.jpg,Worst purchase ever. Extremely fragile and fell apart immediately after use. waste,negative,0
+images/positive_92_9689.jpg,Fair enough for the price. Not the best but acceptable for occasional use. average,positive,2
+images/neutral_115_1158.jpg,Very bad quality. It smells strange and looks nothing like the description. worst,neutral,1
+images/negative_147_6178.jpg,"Disappointed beyond words. Poor quality, bad packaging and slow delivery. worst",negative,0
+images/neutral_127_4842.jpg,Fair enough for the price. Not the best but acceptable for occasional use. fine,neutral,1
+images/negative_37_8185.jpg,Awful quality. I expected much better for this price. Would not recommend. waste,negative,0
+images/negative_148_3767.jpg,Worst purchase ever. Extremely fragile and fell apart immediately after use. waste,negative,0
+images/positive_29_4930.jpg,Very impressed with the quality. Arrived quickly and packaging was great. loved it,positive,2
+images/negative_22_8019.jpg,Mixed feelings about this. Some aspects are good but others are lacking. average,negative,0
+images/positive_36_9432.jpg,Product is mediocre. It works but I expected a little more from this brand. average,positive,2
+images/negative_90_1718.jpg,Disgusted with this purchase. It broke on first use and feels very cheap. worst,negative,0
+images/positive_135_831.jpg,I am extremely happy with this purchase. The quality is just remarkable. loved it,positive,2
+images/neutral_153_8856.jpg,"Normal product, nothing special. Delivery was on time which was positive. okay",neutral,1
+images/positive_22_8938.jpg,Disgusted with this purchase. It broke on first use and feels very cheap. terrible,positive,2
+images/negative_27_8510.jpg,Terrible product. Broke after just two days of use. Complete waste of money. worst,negative,0
+images/positive_119_9032.jpg,"Fantastic item, delivered on time and exactly as described. Will buy again. loved it",positive,2
+images/negative_116_8814.jpg,Useless product. Does not work as advertised. Returning it immediately. worst,negative,0
+images/neutral_104_6861.jpg,Great value for money. The product looks beautiful and functions flawlessly. loved it,neutral,1
+images/neutral_141_2332.jpg,Fair enough for the price. Not the best but acceptable for occasional use. okay,neutral,1
+images/neutral_91_7234.jpg,Average quality. It works as expected but nothing impressive about it. okay,neutral,1
+images/negative_93_1898.jpg,Absolutely love this product! Works perfectly and exceeded my expectations. loved it,negative,0
+images/negative_110_3218.jpg,Stopped working within a week. Very poor build quality and cheap materials. waste,negative,0
+images/positive_148_4516.jpg,The product is okay. Nothing special but it gets the job done for now. fine,positive,2
+images/negative_124_5971.jpg,Worst purchase ever. Extremely fragile and fell apart immediately after use. worst,negative,0
+images/positive_143_1011.jpg,Wonderful experience from start to finish. Product is beautiful and functional. worth it,positive,2
+images/neutral_87_4641.jpg,Absolutely love this product! Works perfectly and exceeded my expectations. worth it,neutral,1
+images/neutral_13_1153.jpg,Average quality. It works as expected but nothing impressive about it. okay,neutral,1
+images/neutral_76_3878.jpg,Fair enough for the price. Not the best but acceptable for occasional use. average,neutral,1
+images/negative_62_8849.jpg,Fair enough for the price. Not the best but acceptable for occasional use. okay,negative,0
+images/positive_77_46.jpg,Decent product. Delivery was fine. Not great but not terrible either. fine,positive,2
+images/negative_98_6203.jpg,Stopped working within a week. Very poor build quality and cheap materials. worst,negative,0
+images/negative_78_9728.jpg,Do not buy this. It is a scam product. Completely useless and overpriced. terrible,negative,0
+images/neutral_50_8154.jpg,Decent product. Delivery was fine. Not great but not terrible either. fine,neutral,1
+images/positive_64_1121.jpg,Stopped working within a week. Very poor build quality and cheap materials. terrible,positive,2
+images/negative_157_5818.jpg,"Normal product, nothing special. Delivery was on time which was positive. fine",negative,0
+images/negative_123_5851.jpg,"Amazing quality, very happy with my purchase. Highly recommend to everyone. amazing",negative,0
+images/neutral_148_7273.jpg,Do not buy this. It is a scam product. Completely useless and overpriced. waste,neutral,1
+images/neutral_22_3617.jpg,Total waste of money. The product is poorly made and does not work at all. terrible,neutral,1
+images/positive_153_6079.jpg,The product is okay. Nothing special but it gets the job done for now. average,positive,2
+images/neutral_144_4544.jpg,Product is mediocre. It works but I expected a little more from this brand. average,neutral,1
+images/negative_4_3290.jpg,Awful quality. I expected much better for this price. Would not recommend. waste,negative,0
+images/positive_155_5053.jpg,Total waste of money. The product is poorly made and does not work at all. worst,positive,2
+images/neutral_143_1581.jpg,Average experience. Product works but feels cheap compared to the price. fine,neutral,1
+images/negative_67_7133.jpg,Very impressed with the quality. Arrived quickly and packaging was great. worth it,negative,0
+images/negative_79_4895.jpg,Wonderful experience from start to finish. Product is beautiful and functional. loved it,negative,0
+images/positive_85_6062.jpg,"Disappointed beyond words. Poor quality, bad packaging and slow delivery. terrible",positive,2
+images/positive_13_6939.jpg,Very impressed with the quality. Arrived quickly and packaging was great. worth it,positive,2
+images/positive_15_960.jpg,So-so product. Packaging was average and quality is just about acceptable. average,positive,2
+images/neutral_96_3104.jpg,Absolutely love this product! Works perfectly and exceeded my expectations. worth it,neutral,1
+images/positive_24_406.jpg,"Disappointed beyond words. Poor quality, bad packaging and slow delivery. waste",positive,2
+images/neutral_155_6412.jpg,Disgusted with this purchase. It broke on first use and feels very cheap. terrible,neutral,1
+images/positive_65_919.jpg,Worst purchase ever. Extremely fragile and fell apart immediately after use. worst,positive,2
+images/neutral_25_5254.jpg,This is the best purchase I have made this year. Highly recommended! amazing,neutral,1
+images/negative_109_5122.jpg,Terrible product. Broke after just two days of use. Complete waste of money. worst,negative,0
+images/positive_108_7840.jpg,This is the best purchase I have made this year. Highly recommended! loved it,positive,2
+images/negative_14_9780.jpg,Okay product overall. Met basic requirements but did not wow me at all. okay,negative,0
+images/positive_98_5517.jpg,"Excellent product! Great build quality, fast shipping, and perfect condition. loved it",positive,2
+images/negative_15_5003.jpg,Just about acceptable. Works for what I need but build quality is average. okay,negative,0
+images/neutral_81_1827.jpg,Average experience. Product works but feels cheap compared to the price. fine,neutral,1
+images/negative_72_6671.jpg,"Disappointed beyond words. Poor quality, bad packaging and slow delivery. terrible",negative,0
+images/negative_122_891.jpg,Would give zero stars if possible. Completely defective and unusable product. terrible,negative,0
+images/negative_10_5706.jpg,Total waste of money. The product is poorly made and does not work at all. terrible,negative,0
+images/neutral_8_8906.jpg,Do not buy this. It is a scam product. Completely useless and overpriced. terrible,neutral,1
+images/neutral_159_1639.jpg,It is alright. Does what it says but the quality could be better honestly. average,neutral,1
+images/positive_34_4499.jpg,"Perfect in every way. Beautiful design, top quality and great performance. amazing",positive,2
+images/neutral_26_893.jpg,Very impressed with the quality. Arrived quickly and packaging was great. amazing,neutral,1
+images/positive_2_6201.jpg,Terrible item. The colors were faded and the product did not function at all. terrible,positive,2
+images/neutral_140_5940.jpg,Would give zero stars if possible. Completely defective and unusable product. terrible,neutral,1
+images/negative_121_1394.jpg,It is alright. Does what it says but the quality could be better honestly. average,negative,0
+images/positive_165_9758.jpg,Terrible product. Broke after just two days of use. Complete waste of money. terrible,positive,2
+images/negative_8_6547.jpg,Horrible experience. Product arrived damaged and customer service was useless. waste,negative,0
+images/positive_149_4009.jpg,Superb quality and fast delivery. The product is exactly what I needed. amazing,positive,2
+images/neutral_47_2906.jpg,Just about acceptable. Works for what I need but build quality is average. fine,neutral,1
+images/positive_63_2529.jpg,Horrible experience. Product arrived damaged and customer service was useless. terrible,positive,2
+images/negative_103_7912.jpg,"Disappointed beyond words. Poor quality, bad packaging and slow delivery. worst",negative,0
+images/positive_115_4288.jpg,"Perfect in every way. Beautiful design, top quality and great performance. amazing",positive,2
+images/neutral_41_8952.jpg,Horrible experience. Product arrived damaged and customer service was useless. waste,neutral,1
+images/neutral_103_4439.jpg,So-so product. Packaging was average and quality is just about acceptable. okay,neutral,1
+images/positive_67_5661.jpg,Very satisfied with this purchase. Top notch quality and excellent packaging. worth it,positive,2
+images/neutral_60_3154.jpg,"Disappointed beyond words. Poor quality, bad packaging and slow delivery. waste",neutral,1
+images/neutral_139_8612.jpg,Just about acceptable. Works for what I need but build quality is average. fine,neutral,1
+images/positive_37_6624.jpg,Very impressed with the quality. Arrived quickly and packaging was great. amazing,positive,2
+images/negative_35_5067.jpg,Useless product. Does not work as advertised. Returning it immediately. terrible,negative,0
+images/negative_99_1681.jpg,Terrible product. Broke after just two days of use. Complete waste of money. terrible,negative,0
+images/neutral_27_3339.jpg,"Normal product, nothing special. Delivery was on time which was positive. average",neutral,1
+images/neutral_39_694.jpg,It is alright. Does what it says but the quality could be better honestly. fine,neutral,1
+images/positive_96_6421.jpg,Fair enough for the price. Not the best but acceptable for occasional use. fine,positive,2
+images/neutral_165_4919.jpg,So-so product. Packaging was average and quality is just about acceptable. average,neutral,1
+images/positive_110_6553.jpg,Wonderful experience from start to finish. Product is beautiful and functional. amazing,positive,2
+images/positive_105_8189.jpg,Absolutely love this product! Works perfectly and exceeded my expectations. worth it,positive,2
+images/negative_53_3084.jpg,"Disappointed beyond words. Poor quality, bad packaging and slow delivery. waste",negative,0
+images/negative_145_1124.jpg,Very bad quality. It smells strange and looks nothing like the description. waste,negative,0
+images/negative_28_2181.jpg,Useless product. Does not work as advertised. Returning it immediately. worst,negative,0
+images/negative_105_8975.jpg,Really bad. The item came broken and the material feels extremely flimsy. terrible,negative,0
+images/positive_147_6439.jpg,"Perfect in every way. Beautiful design, top quality and great performance. loved it",positive,2
+images/positive_136_2587.jpg,Wonderful experience from start to finish. Product is beautiful and functional. amazing,positive,2
+images/positive_97_5598.jpg,Outstanding product. It works like a charm and looks exactly as pictured. loved it,positive,2
+images/positive_104_9975.jpg,"Amazing quality, very happy with my purchase. Highly recommend to everyone. amazing",positive,2
+images/negative_126_8824.jpg,"Perfect in every way. Beautiful design, top quality and great performance. loved it",negative,0
+images/negative_107_8747.jpg,"Normal product, nothing special. Delivery was on time which was positive. okay",negative,0
+images/negative_86_5113.jpg,It is fine. Not as impressive as the reviews suggested but not bad either. fine,negative,0
+images/negative_166_4454.jpg,So-so product. Packaging was average and quality is just about acceptable. okay,negative,0
+images/negative_55_5978.jpg,Horrible experience. Product arrived damaged and customer service was useless. terrible,negative,0
+images/negative_102_3122.jpg,Very disappointed. The item looks nothing like the pictures shown online. waste,negative,0
+images/positive_7_7668.jpg,I am extremely happy with this purchase. The quality is just remarkable. loved it,positive,2
+images/positive_60_1143.jpg,Horrible experience. Product arrived damaged and customer service was useless. terrible,positive,2
+images/positive_87_4742.jpg,Neither good nor bad. Works most of the time but has some minor issues. fine,positive,2
+images/neutral_105_7772.jpg,Decent product. Delivery was fine. Not great but not terrible either. fine,neutral,1
+images/negative_120_8941.jpg,Very satisfied with this purchase. Top notch quality and excellent packaging. worth it,negative,0
+images/positive_76_3475.jpg,"Excellent product! Great build quality, fast shipping, and perfect condition. loved it",positive,2
+images/negative_138_89.jpg,"Disappointed beyond words. Poor quality, bad packaging and slow delivery. worst",negative,0
+images/negative_52_6363.jpg,"Fantastic item, delivered on time and exactly as described. Will buy again. loved it",negative,0
+images/neutral_21_1974.jpg,It is alright. Does what it says but the quality could be better honestly. fine,neutral,1
+images/positive_25_5000.jpg,Very impressed with the quality. Arrived quickly and packaging was great. loved it,positive,2
+images/positive_86_4475.jpg,Product is mediocre. It works but I expected a little more from this brand. average,positive,2
+images/positive_134_2399.jpg,Really bad. The item came broken and the material feels extremely flimsy. worst,positive,2
+images/negative_133_8399.jpg,Absolutely love this product! Works perfectly and exceeded my expectations. loved it,negative,0
+images/negative_69_8775.jpg,Would give zero stars if possible. Completely defective and unusable product. waste,negative,0
+images/positive_45_1524.jpg,Really bad. The item came broken and the material feels extremely flimsy. worst,positive,2
+images/positive_117_5922.jpg,"Amazing quality, very happy with my purchase. Highly recommend to everyone. loved it",positive,2
+images/negative_118_4237.jpg,Total waste of money. The product is poorly made and does not work at all. terrible,negative,0
+images/positive_11_8479.jpg,Great value for money. The product looks beautiful and functions flawlessly. loved it,positive,2
+images/neutral_54_8797.jpg,Neither good nor bad. Works most of the time but has some minor issues. average,neutral,1
+images/positive_114_1259.jpg,I am extremely happy with this purchase. The quality is just remarkable. amazing,positive,2
+images/neutral_112_2440.jpg,Average experience. Product works but feels cheap compared to the price. okay,neutral,1
+images/negative_26_4102.jpg,Absolutely love this product! Works perfectly and exceeded my expectations. amazing,negative,0
+images/neutral_30_651.jpg,Horrible experience. Product arrived damaged and customer service was useless. waste,neutral,1
+images/positive_93_6299.jpg,I am extremely happy with this purchase. The quality is just remarkable. worth it,positive,2
+images/neutral_56_5152.jpg,Fair enough for the price. Not the best but acceptable for occasional use. average,neutral,1
+images/negative_45_3522.jpg,Horrible experience. Product arrived damaged and customer service was useless. worst,negative,0
+images/positive_43_9707.jpg,It does the job but barely. Quality is mediocre and design feels outdated. okay,positive,2
+images/positive_101_8452.jpg,Very satisfied with this purchase. Top notch quality and excellent packaging. loved it,positive,2
+images/positive_144_8008.jpg,"Disappointed beyond words. Poor quality, bad packaging and slow delivery. worst",positive,2
+images/neutral_0_8060.jpg,"Fantastic item, delivered on time and exactly as described. Will buy again. loved it",neutral,1
+images/negative_136_9827.jpg,"Amazing quality, very happy with my purchase. Highly recommend to everyone. amazing",negative,0
+images/positive_88_1275.jpg,"Excellent product! Great build quality, fast shipping, and perfect condition. amazing",positive,2
+images/neutral_7_7187.jpg,The product is okay. Nothing special but it gets the job done for now. fine,neutral,1
+images/positive_68_4847.jpg,Very satisfied with this purchase. Top notch quality and excellent packaging. loved it,positive,2
+images/negative_77_5713.jpg,Stopped working within a week. Very poor build quality and cheap materials. waste,negative,0
+images/negative_64_6249.jpg,The product is okay. Nothing special but it gets the job done for now. average,negative,0
+images/positive_163_539.jpg,Terrible product. Broke after just two days of use. Complete waste of money. worst,positive,2
+images/negative_43_6461.jpg,Superb quality and fast delivery. The product is exactly what I needed. worth it,negative,0
+images/negative_137_7899.jpg,Worst purchase ever. Extremely fragile and fell apart immediately after use. waste,negative,0
+images/positive_66_8153.jpg,"Fantastic item, delivered on time and exactly as described. Will buy again. loved it",positive,2
+images/negative_97_894.jpg,I am extremely happy with this purchase. The quality is just remarkable. amazing,negative,0
+images/positive_127_1946.jpg,So-so product. Packaging was average and quality is just about acceptable. average,positive,2
+images/positive_80_9787.jpg,Outstanding product. It works like a charm and looks exactly as pictured. worth it,positive,2
+images/positive_56_9012.jpg,Product is mediocre. It works but I expected a little more from this brand. average,positive,2
+images/neutral_132_1083.jpg,Okay product overall. Met basic requirements but did not wow me at all. average,neutral,1
+images/negative_127_6430.jpg,Decent product. Delivery was fine. Not great but not terrible either. average,negative,0
+images/neutral_94_5880.jpg,Worst purchase ever. Extremely fragile and fell apart immediately after use. worst,neutral,1
+images/positive_156_4836.jpg,Stopped working within a week. Very poor build quality and cheap materials. waste,positive,2
+images/negative_154_4422.jpg,Very bad quality. It smells strange and looks nothing like the description. waste,negative,0
+images/positive_102_436.jpg,Superb quality and fast delivery. The product is exactly what I needed. worth it,positive,2
+images/negative_38_201.jpg,Product is mediocre. It works but I expected a little more from this brand. average,negative,0
+images/positive_1_5574.jpg,"Normal product, nothing special. Delivery was on time which was positive. average",positive,2
+images/neutral_151_3781.jpg,Decent product. Delivery was fine. Not great but not terrible either. okay,neutral,1
+images/negative_60_3695.jpg,This is the best purchase I have made this year. Highly recommended! loved it,negative,0
+images/negative_155_8470.jpg,Horrible experience. Product arrived damaged and customer service was useless. waste,negative,0
+images/positive_94_5626.jpg,"Amazing quality, very happy with my purchase. Highly recommend to everyone. worth it",positive,2
+images/neutral_53_477.jpg,It is alright. Does what it says but the quality could be better honestly. average,neutral,1
+images/negative_161_3757.jpg,Neither good nor bad. Works most of the time but has some minor issues. fine,negative,0
+images/positive_26_6548.jpg,Very impressed with the quality. Arrived quickly and packaging was great. worth it,positive,2
+images/neutral_150_9726.jpg,Horrible experience. Product arrived damaged and customer service was useless. waste,neutral,1
+images/negative_65_3727.jpg,Terrible item. The colors were faded and the product did not function at all. waste,negative,0
+images/negative_0_1499.jpg,Neither good nor bad. Works most of the time but has some minor issues. average,negative,0
+images/negative_113_1506.jpg,"Love it so much! It is durable, stylish, and works beyond my expectations. amazing",negative,0
+images/neutral_130_6056.jpg,Very satisfied with this purchase. Top notch quality and excellent packaging. amazing,neutral,1
+images/negative_48_7096.jpg,Worst purchase ever. Extremely fragile and fell apart immediately after use. waste,negative,0
+images/negative_13_1025.jpg,"Disappointed beyond words. Poor quality, bad packaging and slow delivery. terrible",negative,0
+images/positive_33_9755.jpg,Disgusted with this purchase. It broke on first use and feels very cheap. terrible,positive,2
+images/negative_92_1475.jpg,Very disappointed. The item looks nothing like the pictures shown online. terrible,negative,0
+images/positive_133_3684.jpg,Very satisfied with this purchase. Top notch quality and excellent packaging. amazing,positive,2
+images/neutral_23_7796.jpg,The product is okay. Nothing special but it gets the job done for now. fine,neutral,1
+images/positive_51_9729.jpg,Absolutely love this product! Works perfectly and exceeded my expectations. loved it,positive,2
+images/neutral_65_3004.jpg,Mixed feelings about this. Some aspects are good but others are lacking. average,neutral,1
+images/negative_3_2219.jpg,Product is mediocre. It works but I expected a little more from this brand. fine,negative,0
+images/negative_44_1785.jpg,Outstanding product. It works like a charm and looks exactly as pictured. amazing,negative,0
+images/negative_74_2029.jpg,Stopped working within a week. Very poor build quality and cheap materials. waste,negative,0
+images/neutral_72_1022.jpg,Absolutely love this product! Works perfectly and exceeded my expectations. worth it,neutral,1
+images/positive_41_6498.jpg,Great value for money. The product looks beautiful and functions flawlessly. loved it,positive,2
+images/neutral_88_2128.jpg,Wonderful experience from start to finish. Product is beautiful and functional. loved it,neutral,1
+images/neutral_51_3396.jpg,So-so product. Packaging was average and quality is just about acceptable. average,neutral,1
+images/neutral_126_8743.jpg,Superb quality and fast delivery. The product is exactly what I needed. amazing,neutral,1
+images/neutral_142_7065.jpg,Absolutely love this product! Works perfectly and exceeded my expectations. worth it,neutral,1
+images/neutral_67_4949.jpg,So-so product. Packaging was average and quality is just about acceptable. fine,neutral,1
+images/negative_156_5914.jpg,Product is mediocre. It works but I expected a little more from this brand. okay,negative,0
+images/negative_57_9385.jpg,"Fantastic item, delivered on time and exactly as described. Will buy again. worth it",negative,0
+images/positive_82_9608.jpg,I am extremely happy with this purchase. The quality is just remarkable. amazing,positive,2
+images/positive_107_5649.jpg,"Normal product, nothing special. Delivery was on time which was positive. fine",positive,2
+images/neutral_156_9567.jpg,Worst purchase ever. Extremely fragile and fell apart immediately after use. worst,neutral,1
+images/neutral_85_4466.jpg,"Disappointed beyond words. Poor quality, bad packaging and slow delivery. worst",neutral,1
+images/neutral_100_3613.jpg,Superb quality and fast delivery. The product is exactly what I needed. amazing,neutral,1
+images/positive_154_251.jpg,Just about acceptable. Works for what I need but build quality is average. okay,positive,2
+images/neutral_75_2945.jpg,So-so product. Packaging was average and quality is just about acceptable. fine,neutral,1
+images/negative_34_9608.jpg,Terrible item. The colors were faded and the product did not function at all. terrible,negative,0
+images/positive_4_4422.jpg,"Love it so much! It is durable, stylish, and works beyond my expectations. worth it",positive,2
+images/negative_31_3921.jpg,Very disappointed. The item looks nothing like the pictures shown online. worst,negative,0
+images/negative_59_788.jpg,Decent product. Delivery was fine. Not great but not terrible either. average,negative,0
+images/neutral_99_818.jpg,It does the job but barely. Quality is mediocre and design feels outdated. okay,neutral,1
+images/neutral_71_4989.jpg,Average experience. Product works but feels cheap compared to the price. average,neutral,1
+images/neutral_116_844.jpg,Total waste of money. The product is poorly made and does not work at all. terrible,neutral,1
+images/neutral_16_3943.jpg,It is alright. Does what it says but the quality could be better honestly. average,neutral,1
+images/neutral_59_8558.jpg,Would give zero stars if possible. Completely defective and unusable product. worst,neutral,1
+images/neutral_69_2886.jpg,Very disappointed. The item looks nothing like the pictures shown online. terrible,neutral,1
+images/negative_160_1687.jpg,It is fine. Not as impressive as the reviews suggested but not bad either. okay,negative,0
+images/neutral_163_8971.jpg,"Love it so much! It is durable, stylish, and works beyond my expectations. worth it",neutral,1
+images/negative_29_6745.jpg,Total waste of money. The product is poorly made and does not work at all. worst,negative,0
+images/negative_115_6143.jpg,Very bad quality. It smells strange and looks nothing like the description. waste,negative,0
+images/positive_129_4911.jpg,Absolutely love this product! Works perfectly and exceeded my expectations. amazing,positive,2
+images/positive_122_4745.jpg,Very satisfied with this purchase. Top notch quality and excellent packaging. amazing,positive,2
+images/neutral_123_9293.jpg,Awful quality. I expected much better for this price. Would not recommend. waste,neutral,1
+images/neutral_19_9538.jpg,"Disappointed beyond words. Poor quality, bad packaging and slow delivery. waste",neutral,1
+images/positive_27_5139.jpg,I am extremely happy with this purchase. The quality is just remarkable. loved it,positive,2
+images/neutral_5_146.jpg,Okay product overall. Met basic requirements but did not wow me at all. fine,neutral,1
+images/neutral_44_4146.jpg,Terrible item. The colors were faded and the product did not function at all. waste,neutral,1
+images/positive_17_3853.jpg,Wonderful experience from start to finish. Product is beautiful and functional. worth it,positive,2
+images/negative_143_6564.jpg,Very bad quality. It smells strange and looks nothing like the description. waste,negative,0
+images/negative_163_8745.jpg,Neither good nor bad. Works most of the time but has some minor issues. fine,negative,0
+images/neutral_136_2219.jpg,Very satisfied with this purchase. Top notch quality and excellent packaging. amazing,neutral,1
+images/positive_157_7550.jpg,Awful quality. I expected much better for this price. Would not recommend. worst,positive,2
+images/negative_21_2221.jpg,"Disappointed beyond words. Poor quality, bad packaging and slow delivery. waste",negative,0
+images/neutral_32_3726.jpg,Okay product overall. Met basic requirements but did not wow me at all. okay,neutral,1
+images/neutral_64_1593.jpg,Mixed feelings about this. Some aspects are good but others are lacking. fine,neutral,1
+images/negative_18_8115.jpg,Very disappointed. The item looks nothing like the pictures shown online. terrible,negative,0
+images/positive_74_6367.jpg,"Love it so much! It is durable, stylish, and works beyond my expectations. worth it",positive,2
+images/neutral_146_6219.jpg,It is fine. Not as impressive as the reviews suggested but not bad either. okay,neutral,1
+images/positive_126_6606.jpg,Terrible product. Broke after just two days of use. Complete waste of money. terrible,positive,2
+images/neutral_15_8747.jpg,Neither good nor bad. Works most of the time but has some minor issues. average,neutral,1
+images/negative_76_145.jpg,Awful quality. I expected much better for this price. Would not recommend. terrible,negative,0
+images/neutral_84_7122.jpg,Worst purchase ever. Extremely fragile and fell apart immediately after use. terrible,neutral,1
+images/negative_112_8037.jpg,Very bad quality. It smells strange and looks nothing like the description. waste,negative,0
+images/positive_162_2807.jpg,Useless product. Does not work as advertised. Returning it immediately. waste,positive,2
+images/neutral_113_1605.jpg,It is alright. Does what it says but the quality could be better honestly. okay,neutral,1
+images/neutral_24_9360.jpg,Great value for money. The product looks beautiful and functions flawlessly. loved it,neutral,1
+images/negative_24_5289.jpg,Horrible experience. Product arrived damaged and customer service was useless. terrible,negative,0
+images/negative_106_2913.jpg,Really bad. The item came broken and the material feels extremely flimsy. terrible,negative,0
+images/negative_84_950.jpg,It is alright. Does what it says but the quality could be better honestly. okay,negative,0
+images/neutral_135_5927.jpg,Okay product overall. Met basic requirements but did not wow me at all. average,neutral,1
+images/negative_134_1404.jpg,It does the job but barely. Quality is mediocre and design feels outdated. average,negative,0
+images/positive_130_9477.jpg,"Perfect in every way. Beautiful design, top quality and great performance. loved it",positive,2
+images/negative_42_981.jpg,Awful quality. I expected much better for this price. Would not recommend. terrible,negative,0
+images/negative_58_1453.jpg,Useless product. Does not work as advertised. Returning it immediately. terrible,negative,0
+images/positive_140_4374.jpg,Very satisfied with this purchase. Top notch quality and excellent packaging. worth it,positive,2
+images/positive_109_6524.jpg,I am extremely happy with this purchase. The quality is just remarkable. amazing,positive,2
+images/positive_89_5928.jpg,It is alright. Does what it says but the quality could be better honestly. average,positive,2
+images/positive_54_423.jpg,"Normal product, nothing special. Delivery was on time which was positive. fine",positive,2
+images/positive_73_7606.jpg,Very satisfied with this purchase. Top notch quality and excellent packaging. worth it,positive,2
+images/positive_111_2956.jpg,Brilliant product! It has made my life so much easier. Totally worth it. loved it,positive,2
+images/neutral_158_8433.jpg,Fair enough for the price. Not the best but acceptable for occasional use. okay,neutral,1
+images/neutral_114_9345.jpg,The product is okay. Nothing special but it gets the job done for now. average,neutral,1
+images/neutral_46_5424.jpg,The product is okay. Nothing special but it gets the job done for now. okay,neutral,1
+images/neutral_49_4705.jpg,It does the job but barely. Quality is mediocre and design feels outdated. average,neutral,1
+images/neutral_78_9496.jpg,Wonderful experience from start to finish. Product is beautiful and functional. amazing,neutral,1
+images/negative_32_2830.jpg,"Disappointed beyond words. Poor quality, bad packaging and slow delivery. worst",negative,0
+images/neutral_43_2656.jpg,Decent product. Delivery was fine. Not great but not terrible either. fine,neutral,1
+images/negative_132_3773.jpg,Horrible experience. Product arrived damaged and customer service was useless. terrible,negative,0
+images/neutral_92_14.jpg,Mixed feelings about this. Some aspects are good but others are lacking. average,neutral,1
+images/negative_1_9798.jpg,Terrible item. The colors were faded and the product did not function at all. waste,negative,0
+images/neutral_131_7249.jpg,Really bad. The item came broken and the material feels extremely flimsy. waste,neutral,1
+images/neutral_79_4827.jpg,"Perfect in every way. Beautiful design, top quality and great performance. worth it",neutral,1
+images/neutral_61_3384.jpg,It is fine. Not as impressive as the reviews suggested but not bad either. average,neutral,1
+images/positive_62_6325.jpg,This is the best purchase I have made this year. Highly recommended! worth it,positive,2
+images/negative_140_9135.jpg,Horrible experience. Product arrived damaged and customer service was useless. terrible,negative,0
+images/positive_121_9914.jpg,It does the job but barely. Quality is mediocre and design feels outdated. okay,positive,2
+images/neutral_120_1260.jpg,Very disappointed. The item looks nothing like the pictures shown online. terrible,neutral,1
+images/negative_87_2192.jpg,Product is mediocre. It works but I expected a little more from this brand. okay,negative,0
+images/positive_128_2440.jpg,I am extremely happy with this purchase. The quality is just remarkable. loved it,positive,2
+images/negative_101_4783.jpg,Horrible experience. Product arrived damaged and customer service was useless. terrible,negative,0
+images/neutral_62_7268.jpg,Outstanding product. It works like a charm and looks exactly as pictured. worth it,neutral,1
+images/negative_130_4314.jpg,Disgusted with this purchase. It broke on first use and feels very cheap. worst,negative,0
+images/neutral_90_8056.jpg,It is alright. Does what it says but the quality could be better honestly. fine,neutral,1
+images/neutral_6_983.jpg,"Perfect in every way. Beautiful design, top quality and great performance. worth it",neutral,1
+images/negative_100_5584.jpg,Very impressed with the quality. Arrived quickly and packaging was great. loved it,negative,0
+images/positive_61_5654.jpg,Total waste of money. The product is poorly made and does not work at all. waste,positive,2
+images/negative_89_4140.jpg,Awful quality. I expected much better for this price. Would not recommend. worst,negative,0
+images/neutral_42_1870.jpg,Mixed feelings about this. Some aspects are good but others are lacking. average,neutral,1
+images/negative_125_5432.jpg,Total waste of money. The product is poorly made and does not work at all. waste,negative,0
+images/positive_57_8167.jpg,This is the best purchase I have made this year. Highly recommended! loved it,positive,2
+images/positive_120_3216.jpg,I am extremely happy with this purchase. The quality is just remarkable. amazing,positive,2
+images/positive_71_7673.jpg,"Fantastic item, delivered on time and exactly as described. Will buy again. loved it",positive,2
+images/neutral_97_7361.jpg,The product is okay. Nothing special but it gets the job done for now. okay,neutral,1
+images/neutral_36_5886.jpg,Awful quality. I expected much better for this price. Would not recommend. terrible,neutral,1
+images/neutral_95_2893.jpg,So-so product. Packaging was average and quality is just about acceptable. fine,neutral,1
+images/negative_36_4247.jpg,"Perfect in every way. Beautiful design, top quality and great performance. amazing",negative,0
+images/positive_46_7434.jpg,Stopped working within a week. Very poor build quality and cheap materials. worst,positive,2
+images/neutral_119_8730.jpg,Neither good nor bad. Works most of the time but has some minor issues. fine,neutral,1
+images/neutral_2_2975.jpg,Terrible item. The colors were faded and the product did not function at all. waste,neutral,1
+images/neutral_9_11.jpg,It is fine. Not as impressive as the reviews suggested but not bad either. average,neutral,1
+images/negative_19_1677.jpg,Useless product. Does not work as advertised. Returning it immediately. worst,negative,0
+images/neutral_133_2243.jpg,Do not buy this. It is a scam product. Completely useless and overpriced. terrible,neutral,1
+images/negative_41_4016.jpg,The product is okay. Nothing special but it gets the job done for now. okay,negative,0
+images/positive_32_1746.jpg,Great value for money. The product looks beautiful and functions flawlessly. loved it,positive,2
+images/neutral_109_3313.jpg,"Perfect in every way. Beautiful design, top quality and great performance. worth it",neutral,1
+images/positive_152_8813.jpg,Very impressed with the quality. Arrived quickly and packaging was great. loved it,positive,2
+images/negative_141_1951.jpg,Total waste of money. The product is poorly made and does not work at all. terrible,negative,0
+images/positive_160_7054.jpg,Wonderful experience from start to finish. Product is beautiful and functional. loved it,positive,2
+images/positive_42_6071.jpg,Terrible product. Broke after just two days of use. Complete waste of money. waste,positive,2
+images/neutral_125_9413.jpg,Horrible experience. Product arrived damaged and customer service was useless. worst,neutral,1
+images/neutral_106_7424.jpg,Wonderful experience from start to finish. Product is beautiful and functional. worth it,neutral,1
+images/positive_28_3228.jpg,Mixed feelings about this. Some aspects are good but others are lacking. average,positive,2
+images/positive_10_2103.jpg,I am extremely happy with this purchase. The quality is just remarkable. loved it,positive,2
+images/neutral_66_4624.jpg,Okay product overall. Met basic requirements but did not wow me at all. fine,neutral,1
+images/neutral_161_1506.jpg,Okay product overall. Met basic requirements but did not wow me at all. okay,neutral,1
+images/neutral_35_2489.jpg,Average quality. It works as expected but nothing impressive about it. okay,neutral,1
+images/positive_21_4533.jpg,"Disappointed beyond words. Poor quality, bad packaging and slow delivery. worst",positive,2
+images/neutral_102_6162.jpg,The product is okay. Nothing special but it gets the job done for now. average,neutral,1
+images/negative_162_8856.jpg,Very bad quality. It smells strange and looks nothing like the description. waste,negative,0
+images/positive_90_5724.jpg,It is alright. Does what it says but the quality could be better honestly. okay,positive,2
+images/negative_114_144.jpg,Neither good nor bad. Works most of the time but has some minor issues. okay,negative,0
+images/neutral_3_7746.jpg,Would give zero stars if possible. Completely defective and unusable product. waste,neutral,1
+images/positive_142_6121.jpg,I am extremely happy with this purchase. The quality is just remarkable. amazing,positive,2
+images/neutral_77_4578.jpg,Average quality. It works as expected but nothing impressive about it. fine,neutral,1
+images/neutral_70_7421.jpg,So-so product. Packaging was average and quality is just about acceptable. fine,neutral,1
+images/positive_132_7837.jpg,Brilliant product! It has made my life so much easier. Totally worth it. loved it,positive,2
+images/positive_14_4563.jpg,Very impressed with the quality. Arrived quickly and packaging was great. loved it,positive,2
+images/positive_69_3770.jpg,Brilliant product! It has made my life so much easier. Totally worth it. loved it,positive,2
+images/positive_139_2875.jpg,"Love it so much! It is durable, stylish, and works beyond my expectations. amazing",positive,2
+images/positive_81_6532.jpg,"Amazing quality, very happy with my purchase. Highly recommend to everyone. amazing",positive,2
+images/positive_103_2392.jpg,Would give zero stars if possible. Completely defective and unusable product. waste,positive,2
+images/positive_18_2144.jpg,Very satisfied with this purchase. Top notch quality and excellent packaging. amazing,positive,2
+images/neutral_129_4553.jpg,I am extremely happy with this purchase. The quality is just remarkable. amazing,neutral,1
+images/negative_164_2233.jpg,It is fine. Not as impressive as the reviews suggested but not bad either. okay,negative,0
+images/negative_49_9022.jpg,Very disappointed. The item looks nothing like the pictures shown online. waste,negative,0
+images/negative_56_7982.jpg,Awful quality. I expected much better for this price. Would not recommend. terrible,negative,0
+images/negative_119_8238.jpg,Okay product overall. Met basic requirements but did not wow me at all. okay,negative,0
+images/negative_81_9146.jpg,Outstanding product. It works like a charm and looks exactly as pictured. loved it,negative,0
+images/negative_70_6581.jpg,Just about acceptable. Works for what I need but build quality is average. okay,negative,0
+images/positive_158_104.jpg,Very impressed with the quality. Arrived quickly and packaging was great. worth it,positive,2
+images/neutral_89_6995.jpg,Mixed feelings about this. Some aspects are good but others are lacking. average,neutral,1
+images/neutral_74_6835.jpg,"Fantastic item, delivered on time and exactly as described. Will buy again. loved it",neutral,1
+images/positive_125_3524.jpg,Absolutely love this product! Works perfectly and exceeded my expectations. loved it,positive,2
